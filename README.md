@@ -1,1 +1,1 @@
-ufull stack development
+full stack development
